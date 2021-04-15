@@ -1,6 +1,6 @@
-# 1
+# README generator
 
-   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://choosealicense.com/licenses/lgpl-3.0/)
   
   ## Table of Contents
   
@@ -14,34 +14,34 @@
   
   ## Description
   
-  2
+  description
 
   ## Installation
   
-  3
+  npm i
   
   ## Usage
   
-  4
+  node index.js
   
   ## License
   
-  This project uses the 'GNU AGPLv3
+  This project uses the 'Mozilla Public License 2.0
       ' license. 
   
-  More information can be found here: https://choosealicense.com/licenses/agpl-3.0/
+  More information can be found here: https://choosealicense.com/licenses/mpl-2.0/
   
   ## Contributing
   
-  5
+  pull requests
   
   ## Tests
   
-  6
+  N/A
   
   ## Questions
   
-  Link to my Github: https://github.com/emcghee
+  Link to my Github: https://github.com/ttdunlap33
 
-  Please send any questions here: 7
+  Please send any questions here: ttdunlap33@gmail.com
   

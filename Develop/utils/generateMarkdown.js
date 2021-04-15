@@ -72,7 +72,6 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  console.log("In Generate Markdown");
   return `# ${data.projectTitle}
 
   ${renderLicenseBadge(data.softwareLicense)}

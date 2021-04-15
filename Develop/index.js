@@ -118,16 +118,6 @@ const questions = [
     }
 ];
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeFile(fileName, data, function(err) {
-//         if (err) {
-//             return console.log(err);
-//         }
-//         console.log('Success! README.md file is created in the output folder');
-//     });
-// }
-
 // TODO: Create a function to initialize app
 function init() {
 console.log("Please answer the prompts. Required questions start with a '*'");
@@ -135,7 +125,6 @@ console.log("Please answer the prompts. Required questions start with a '*'");
     .prompt(questions)
     .then(answers => {
         var readmeContent = generateMarkdown(answers);
-        console.log(readmeContent);
         fs.writeFile('./newreadme/README.md', readmeContent, function(err) {
             if (err) {
                 return console.log(err)
