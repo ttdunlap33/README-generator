@@ -131,15 +131,11 @@ console.log("Please answer the prompts. Required questions start with a '*'");
             }
             console.log('README.md written to newreadme/README.md');
         })
-        // console.log(answers);
-    //    writeToFile('./output/README.md', readmeContent);
     })
     .catch(error => {
         if(error.isTtyError) {
         // Prompt couldn't be rendered in the current environment
-        } else {
-        // Something else when wrong
-        }
+        } 
     });
 }
 
