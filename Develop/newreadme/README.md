@@ -14,15 +14,15 @@
   
   ## Description
   
-  s
+  a
 
   ## Installation
   
-  d
+  a
   
   ## Usage
   
-  f
+  a
   
   ## License
   
@@ -33,15 +33,15 @@
   
   ## Contributing
   
-  g
+  a
   
   ## Tests
   
-  d
+  a
   
   ## Questions
   
-  Link to my Github: https://github.com/s
+  Link to my Github: https://github.com/a
 
-  Please send any questions here: s
+  Please send any questions here: ttdunlap33@gmail.com
   
