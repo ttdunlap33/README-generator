@@ -1,6 +1,6 @@
-# a
+# Tech Blog
 
-   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/licenses/unlicense/)
   
   ## Table of Contents
   
@@ -18,30 +18,30 @@
 
   ## Installation
   
-  a
+  npm i express-handlebars mysql2 sequelize dotenv bcrypt express-session connect-session-sequelize express
   
   ## Usage
   
-  a
+  node server.js
   
   ## License
   
-  This project uses the 'GNU AGPLv3
+  This project uses the 'The Unlicense
       ' license. 
   
-  More information can be found here: https://choosealicense.com/licenses/agpl-3.0/
+  More information can be found here: https://choosealicense.com/licenses/unlicense/
   
   ## Contributing
   
-  a
+  pull requests
   
   ## Tests
   
-  a
+  
   
   ## Questions
   
-  Link to my Github: https://github.com/a
+  Link to my Github: https://github.com/ttdunlap33
 
   Please send any questions here: ttdunlap33@gmail.com
   
